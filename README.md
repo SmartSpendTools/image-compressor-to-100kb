@@ -4,6 +4,7 @@
 👉 **[Try the Live Demo Now](https://advancedcalculator.in/online-image-compressor-to-reduce-image-size-to-100kb/)**  
 
 Compress your images instantly to **100KB or below** — all while keeping your data private and secure.  
+![Screenshot 2025-11-27 192055](https://github.com/user-attachments/assets/58988750-2321-49a8-8a25-a95871d9ff6b)
 
 ---
 
